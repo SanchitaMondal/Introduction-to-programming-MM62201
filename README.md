@@ -1,5 +1,9 @@
 # Introduction-to-programming-MM62201
 
+Repository for study materials for MM62201 : Introduction to Programming offered in Autumn 2023 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
+
+## Syllabus for the Course
+
 1. Introduction to Programming (Basics of Programming): Introduction to Programming theory, Developing algorithms, Programming preliminaries, Numeric constants, variables, data types, Management of Input and Output statements
 2. Arithmetic Expressions, Branching and Iterations: Arithmetic and logical operators and expressions, Decision making, Branching, Iteration & Loops.
 3. Data Structures: Tuples, Lists, Aliasing, Mutability, Cloning, Dictionaries
