@@ -1,6 +1,6 @@
 # Introduction-to-programming-MM62201
 
-Repository for study materials for MM62201 : Introduction to Programming offered in Autumn 2023 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
+Repository for Code snippets for MM62201 : Introduction to Programming offered in Autumn 2023 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 
 ## Syllabus for the Course
 
